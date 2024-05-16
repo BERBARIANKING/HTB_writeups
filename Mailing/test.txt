@@ -1,1 +1,8 @@
+https://wariss-writeup.gitbook.io/writeup/hackthebox-lab/easy-lab/mailing
 
+extras:
+https://www.kali.org/tools/smbmap/
+https://www.techtarget.com/searchsecurity/definition/Kerberos
+https://arnavtripathy98.medium.com/smb-enumeration-for-penetration-testing-e782a328bf1b
+https://g0dl3v3l.com/user-enumeration-using-kerbrute-tool-5154a252f6a4
+https://medium.com/@ibo1916a/smbclient-command-2803de274e46
