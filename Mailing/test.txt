@@ -1,4 +1,6 @@
 https://wariss-writeup.gitbook.io/writeup/hackthebox-lab/easy-lab/mailing
+https://gist.github.com/robotshell/7b97af98c5dc0cacd57e6bfac90019cd#file-gistfile1-txt
+https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/iis-internet-information-services
 
 extras:
 https://www.kali.org/tools/smbmap/
