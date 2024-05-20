@@ -29,13 +29,8 @@ Find a logic bug through source code auditing.
 `HTB{s0me_fl4g_her3}`
 
 
-
-# Challenge
-
-
-
 # Solver
 
 ```python
-
+test
 ```
