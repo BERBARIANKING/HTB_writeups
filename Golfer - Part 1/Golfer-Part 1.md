@@ -114,3 +114,12 @@ The first thing we notice is that there’s a big jump from 0800004C all the way
 With a little bit of research it is easy to find the registers for the i386.
 
 <img src="images/Screenshot 2024-05-20 224026.png" />  
+
+All we need to do is to modify the asm so that it does not skip the rest of the functions.
+In order for us to do that we need to delay the jmp function.
+We can do that by adding a ```nop``` instruction.
+
+<img src="images/Screenshot 2024-05-21 010019.png" />  
+
+
+
