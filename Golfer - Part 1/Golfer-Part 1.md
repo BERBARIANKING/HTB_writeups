@@ -120,10 +120,15 @@ All we need to do is to modify the asm so that it does not skip the rest of the 
 In order for us to do that we need to delay the jmp function.
 We can do that by adding a ```nop``` instruction.
 
+
 Let's open radare2 and modify the file:
 
 
 <img src="images/Screenshot 2024-05-21 010019.png" />  
+
+
+
+
 
 Finally once we quit and run the file again , we have a flag!
 
