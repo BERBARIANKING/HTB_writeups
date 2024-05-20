@@ -25,9 +25,7 @@ A friend gave you an odd executable file, in fact it is very tiny for a simple E
 
 ### Difficulty: `easy`
 
-### Flag:
-
-`HTB{y0U_4R3_a_g0lf3r}`
+### Flag: `HTB{y0U_4R3_a_g0lf3r}`
 
 
 # Solver
