@@ -28,7 +28,8 @@ A friend gave you an odd executable file, in fact it is very tiny for a simple E
 ### Flag: `HTB{y0U_4R3_a_g0lf3r}`
 
 
-# Solver
+# Solver: Nikolaos Bermparis
+
 
 We can use the ```file``` command to provide an overview of the file type.
 
