@@ -31,6 +31,7 @@ A friend gave you an odd executable file, in fact it is very tiny for a simple E
 # Solver
 
 We can use the ```file``` command to provide an overview of the file type.
+
 <img src="images/Screenshot 2024-05-20 223226.png" />  
 
 With a little bit of research the file  is written in x86 assembly language, specifically targeting the Intel 32-bit architecture (also known as i386)
