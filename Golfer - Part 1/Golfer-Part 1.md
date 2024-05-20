@@ -113,6 +113,7 @@ The first thing we notice is that there’s a big jump from 0800004C all the way
 With a little bit of research it is easy to find the registers for the i386.
 
 <img src="images/Screenshot 2024-05-20 224026.png" />  
+
 The program tries to ```call sys_exit```. We can ignore it and read the above, it will call ```sys_write``` with the ```flag``` character inserted into ```ecx```.
 
 All we need to do is to modify the asm so that it does not skip the rest of the functions.
