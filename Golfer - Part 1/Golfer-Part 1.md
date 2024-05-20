@@ -32,6 +32,9 @@ A friend gave you an odd executable file, in fact it is very tiny for a simple E
 
 # Solver
 
+We can use the 'file' command to provide an overview of the file type.
+<img src="images/Golfer - Part 1/images/Screenshot 2024-05-20 223226.png" style="margin-left: 20px; zoom: 60%;" align=left />  
+
 ```assembly
  0800004C                 public start
   0800004C start                                  
