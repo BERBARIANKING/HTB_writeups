@@ -18,15 +18,12 @@
 
 A friend gave you an odd executable file, in fact it is very tiny for a simple ELF, what secret can this file hide?
 
-### Objective
-
-Find a logic bug through source code auditing.
 
 ### Difficulty: `easy`
 
 ### Flag:
 
-`HTB{s0me_fl4g_her3}`
+`HTB{y0U_4R3_a_g0lf3r}`
 
 
 # Solver
