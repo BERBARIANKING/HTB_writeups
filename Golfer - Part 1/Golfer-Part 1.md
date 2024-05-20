@@ -22,9 +22,7 @@ A friend gave you an odd executable file, in fact it is very tiny for a simple E
 
 Find a logic bug through source code auditing.
 
-### Difficulty:
-
-`easy`
+### Difficulty: `easy`
 
 ### Flag:
 
