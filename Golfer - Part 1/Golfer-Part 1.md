@@ -30,7 +30,7 @@ A friend gave you an odd executable file, in fact it is very tiny for a simple E
 
 # Solver
 
-We can use the 'file' command to provide an overview of the file type.
+We can use the ```file``` command to provide an overview of the file type.
 <img src="images/Screenshot 2024-05-20 223226.png" />  
 
 With a little bit of research the file  is written in x86 assembly language, specifically targeting the Intel 32-bit architecture (also known as i386)
@@ -112,12 +112,18 @@ The first thing we notice is that there’s a big jump from 0800004C all the way
 With a little bit of research it is easy to find the registers for the i386.
 
 <img src="images/Screenshot 2024-05-20 224026.png" />  
+The program tries to ```call sys_exit```. We can ignore it and read the above, it will call ```sys_write``` with the ```flag``` character inserted into ```ecx```.
 
 All we need to do is to modify the asm so that it does not skip the rest of the functions.
 In order for us to do that we need to delay the jmp function.
 We can do that by adding a ```nop``` instruction.
 
+Let's open radare2 and modify the file:
+
+
 <img src="images/Screenshot 2024-05-21 010019.png" />  
 
+Finally once we quit and run the file again , we have a flag!
 
+<img src="images/Screenshot 2024-05-21 001118.png" />  
 
