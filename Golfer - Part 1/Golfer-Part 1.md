@@ -39,6 +39,8 @@ With a little bit of research the file  is written in x86 assembly language, spe
 
 <img src="images/KL_Intel_i386DX.jpg" /> 
 
+Let's open the program in IDA.
+
 ```assembly
  0800004C                 public start
   0800004C start                                  
