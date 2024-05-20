@@ -107,3 +107,10 @@ Let's open the program in IDA.
   08000137                 retn
   08000137 start_0         endp
 ```
+
+
+The first thing we notice is that there’s a big jump from 0800004C all the way until 0x08000127. This means that all of the functions in between are skipped. 
+
+With a little bit of research it is easy to find the registers for the i386.
+
+<img src="images/Screenshot 2024-05-20 224026.png" />  
