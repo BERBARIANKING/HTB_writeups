@@ -30,6 +30,8 @@
 # Solver: Nikolaos Bermparis
 
 
+
+
 Which TCP port is open on the machine? 
 ```6379/tcp```
 
