@@ -7,7 +7,7 @@
 
 
 
-<img src="images/htb.png" style="margin-left: 20px; zoom: 60%;" align=left />    	<font size="10"> <b>Redeemer<b></font>
+<img src="images/htb.png" style="margin-left: 20px; zoom: 10%;" align=left />    	<font size="10"> <b>Redeemer<b></font>
 
 ​		21<sup>th</sup> 5 2024
 
@@ -16,11 +16,6 @@
 ​		
 
  
-
-
-
-
-
 
 ### Difficulty: `Very easy`
 
@@ -47,7 +42,7 @@ Which command-line utility is used to interact with the Redis server? Enter the 
 Which flag is used with the Redis command-line utility to specify the hostname? 
 ```-h```
 
-<img src="images/Screenshot 2024-05-28 022932" />  
+<img src="images/Screenshot 2024-05-28 022932.png" />  
 
 Once connected to a Redis server, which command is used to obtain the information and statistics about the Redis server? 
 ```info```
