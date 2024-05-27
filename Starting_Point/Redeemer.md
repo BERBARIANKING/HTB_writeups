@@ -26,9 +26,13 @@
 
 
 
+### What is Redis?
+Redis is an open source in-memory data store that can be used as a database, cache, or message broker. It's often used for caching web pages and reducing the load on servers. Redis also has some features that make it attractive for use as a database, such as support for transactions and publish/subscribe messaging.
+
 
 Which TCP port is open on the machine? 
 ```6379/tcp```
+
 <img src="images/Screenshot 2024-05-28 022107.png" />  
 
 Which service is running on the port that is open on the machine? 
