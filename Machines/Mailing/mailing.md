@@ -193,7 +193,7 @@ From our gobuster search we can see an assets directory.
 
 ----------------------
 
-In my second i search we can see that a  /download.php directory exists.
+In my second search we can see that a  /download.php directory exists.
 
 <img src="images/urlbuster.png" /> 
 
